@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="images/title-screen.jpg" alt="Title screen" width="49%">
-  <img src="images/dialogue.jpg" alt="Story dialogue" width="49%">
 </p>
 <p align="center">
   <img src="images/field.jpg" alt="Field messages" width="49%">
