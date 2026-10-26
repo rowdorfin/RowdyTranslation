@@ -65,9 +65,15 @@ The translated game needs custom firmware or PPSSPP; it does not run on a PSP wi
 - Some menu labels are abbreviated to fit fixed-size fields (e.g. "2HSwd", "Kat.", "1H Sword").
 - Most lines have not been checked in-game yet.
 
-## Reporting problems
-Open an [Issue](https://github.com/rowdorfin/RowdyTranslation/issues) with: a screenshot, where it happened
-(floor/area, menu or event), PSP+CFW or PPSSPP version, and the patcher log if the patcher failed.
+## Help improve the translation!
+
+This is an early public beta, and community feedback is a big part of the next stage of development. If you play through the game, please report untranslated text, awkward translations, text overflow, or unexpected behavior.
+
+I'm also looking for advanced game saves or emulator save states. So far, I haven't been able to find a save that reaches the higher floors of Aincrad, which makes it difficult to test the translation throughout the game. If you've progressed further, I'd really appreciate it if you could share your save file or emulator save state so we can test those sections and fix any issues together.
+
+Screenshots and the exact location of an issue (floor, area, menu, or event) are especially helpful. Every report helps make the next release better!
+
+Report an issue on GitHub
 
 ## Credits
 - Translation, patch and patcher: **Rowdorf** (with AI assistance).
