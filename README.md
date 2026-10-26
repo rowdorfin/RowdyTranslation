@@ -91,6 +91,18 @@ Screenshots and the exact location of an issue (floor, area, menu, or event) are
 
 Report an issue on GitHub
 
+## Support Rowdorf
+
+Enjoying this project? You can support my translation work and future fan projects through voluntary donations.
+
+☕ [**Support Rowdorf on Ko-fi**](https://ko-fi.com/SEU_USUARIO_KOFI)
+
+Have an idea for a new project, a game you'd love to see translated, or something you'd really like me to work on? Feel free to leave a donation with a message sharing your suggestion! I'd love to hear your ideas and discover which projects the community would like to see in the future.
+
+Every contribution is appreciated, but donations are completely optional. You can also share your suggestions through [GitHub Issues](https://github.com/rowdorfin/RowdyTranslation/issues).
+
+Thank you for your support! Every contribution and suggestion helps inspire future projects.
+
 ## Credits
 - Translation, patch and patcher: **Rowdorf** (with AI assistance).
 - References consulted: the official English localization of *SAO: Hollow Fragment* (terminology);
