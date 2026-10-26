@@ -1,6 +1,19 @@
+<p align="center">
+  <img src="images/banner.jpg" alt="Fan Translation Project by Rowdorf" width="480">
+</p>
+
 # RowdyTranslation v0.9 beta — Sword Art Online: Infinity Moment (PSP) in English
 
 **Fan Translation Project by Rowdorf**
+
+<p align="center">
+  <img src="images/title-screen.jpg" alt="Title screen" width="49%">
+  <img src="images/dialogue.jpg" alt="Story dialogue" width="49%">
+</p>
+<p align="center">
+  <img src="images/field.jpg" alt="Field messages" width="49%">
+  <img src="images/main-menu.jpg" alt="Main menu and status" width="49%">
+</p>
 
 An English fan translation of *Sword Art Online: Infinity Moment* (PSP, Japan, NPJH50701). It is distributed
 **only as a patcher**: you need your own Japanese ISO. **This project does not distribute the game or any game
