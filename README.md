@@ -14,6 +14,9 @@
   <img src="images/field.jpg" alt="Field messages" width="49%">
   <img src="images/main-menu.jpg" alt="Main menu and status" width="49%">
 </p>
+<p align="center">
+  <img src="images/battle.jpg" alt="Battle" width="49%">
+</p>
 
 An English fan translation of *Sword Art Online: Infinity Moment* (PSP, Japan, NPJH50701). It is distributed
 **only as a patcher**: you need your own Japanese ISO. **This project does not distribute the game or any game
