@@ -64,9 +64,10 @@ Both languages are inside every package; you pick one when patching.
 ./RowdyTranslationV1.0-linux-x64
 ```
 It asks for the language and the files (you can drag the ISO into the terminal). Or directly:
-`./RowdyTranslationV1.0-linux-x64 --lang en original.iso SAO_IM_EN_v1.0.iso`. On a Mac the file is
-`RowdyTranslationV1.0`; it is not notarized by Apple, so run `xattr -d com.apple.quarantine RowdyTranslationV1.0`
-once (and `chmod +x RowdyTranslationV1.0` if it says "permission denied"). See the README inside each package.
+`./RowdyTranslationV1.0-linux-x64 --lang en original.iso SAO_IM_EN_v1.0.iso`. On a Mac, double-click
+`RowdyTranslationV1.0.command` (it opens in Terminal). It is not notarized by Apple: if macOS refuses to open it,
+right-click it > Open > Open (or run `xattr -d com.apple.quarantine RowdyTranslationV1.0.command` once). See the
+README inside each package.
 
 ## Verifying the download
 The programs are **not digitally signed**, so Windows SmartScreen/Defender or macOS Gatekeeper may warn about them.
