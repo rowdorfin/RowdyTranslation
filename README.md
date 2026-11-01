@@ -99,7 +99,6 @@ Full list in the [CHANGELOG](CHANGELOG.md).
 - Text drawn inside the videos (the character registration box, the boss room sign) stays Japanese.
 - The title logo is kept as the original Japanese artwork.
 - Some menu labels are abbreviated to fit fixed-size fields (e.g. "2HSwd", "Kat.", "1H Sword").
-- The Linux ARM64 build has not been tested on real hardware.
 
 ## Help improve the translation!
 If you play through the game, please report untranslated text, awkward translations, text overflow, or unexpected
