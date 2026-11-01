@@ -2,6 +2,8 @@
   <img src="images/banner.jpg" alt="Fan Translation Project by Rowdorf" width="480">
 </p>
 
+<p align="center"><b>English</b> | <a href="README.pt-BR.md">Português (BR)</a></p>
+
 # RowdyTranslation v1.0 — Sword Art Online: Infinity Moment (PSP) in English and Português (BR)
 
 **Fan Translation Project by Rowdorf**
@@ -22,7 +24,7 @@ A fan translation of *Sword Art Online: Infinity Moment* (PSP, Japan, NPJH50701)
 **Brazilian Portuguese**. It is distributed **only as a patcher**: you need your own Japanese ISO. **This project
 does not distribute the game or any game files.** Please buy the original game.
 
-*Português (BR): veja a seção [Em português](#em-português).*
+*Em português: [README.pt-BR.md](README.pt-BR.md).*
 
 ## Download
 Get the package for your system from the [Releases](https://github.com/rowdorfin/RowdyTranslation/releases) page.
@@ -112,21 +114,6 @@ Enjoying this project? You can support my translation work and future fan projec
 
 Have an idea for a new project or a game you'd love to see translated? Leave a donation with a message, or share it
 through [GitHub Issues](https://github.com/rowdorfin/RowdyTranslation/issues). Donations are completely optional.
-
-## Em português
-Tradução de fã de *Sword Art Online: Infinity Moment* (PSP) para **português do Brasil** (e inglês). Só o patcher é
-distribuído: você precisa da sua própria ISO japonesa original (tabela acima). Nenhum arquivo do jogo é distribuído.
-
-1. Baixe o pacote do seu sistema em [Releases](https://github.com/rowdorfin/RowdyTranslation/releases).
-2. Windows: rode `RowdyTranslationV1.0.exe`, escolha **Português (BR)** no topo (a janela passa para português),
-   selecione a ISO japonesa, escolha onde salvar (~1,4 GB livres) e clique em **Instalar tradução em português**.
-   Linux/macOS: no terminal, `./RowdyTranslationV1.0-linux-x64 --lang pt original.iso SAO_IM_PT_v1.0.iso`
-   (ou rode sem argumentos e responda às perguntas). No Mac o arquivo é `RowdyTranslationV1.0`; veja o README do zip.
-3. A ISO original nunca é alterada; a nova é conferida por SHA-256. Para jogar: PSP com CFW ou PPSSPP.
-4. Se o jogo mostrar texto antigo ou o outro idioma: apague `PSP/SAVEDATA/NPJH50701INSTALL` e instale de novo.
-
-Tradução gratuita, **proibida a venda** do patcher, da tradução ou de ISO traduzida. Distribuição oficial só por
-este repositório. Problemas: [Issues](https://github.com/rowdorfin/RowdyTranslation/issues).
 
 ## Credits
 - Translation (English and Brazilian Portuguese), patch and patcher: **Rowdorf** (with AI assistance).
